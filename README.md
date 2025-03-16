@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Albert!
-- 👀 I’m interested in technologies that positively impact human health and wellness.
-- 🌱 I’m currently learning the principles of software engineering.
-- 💞️ I’m looking to collaborate on first issue projects. 
-- 📫 You can reach at dangqalbert@gmail.com.
+Hi, I’m Albert!
+- 👀 I’m interested in data engineering, analytics, and strategy consulting.
+- 🌱 I’m currently learning data modeling, ETL processes, and advanced dashboard development.
+- 💼 I have 3+ years of experience in management consulting, specializing in Salesforce implementations, business analysis, and data strategy.
+- 💡 I enjoy solving complex data challenges and turning raw information into actionable insights.
+- 🤝 I’m looking to collaborate on data engineering, analytics, and business intelligence projects.
 
 <!---
 adang48/adang48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
